@@ -1,4 +1,4 @@
-﻿# [Disclaimer](disclaimer/disclaimer.md)
+# ![Disclaimer](disclaimer/disclaimer.md)
 
 # [General Part](general/general.md)
 # [Version History](general/version-history/version-history.md)
